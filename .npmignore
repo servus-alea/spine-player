@@ -1,0 +1,7 @@
+src/
+examples/
+tsconfig.json
+tsup.config.ts
+.gitignore
+SpinePlayer.jsx
+SpinePlayerDemo.jsx
